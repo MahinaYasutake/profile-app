@@ -5,7 +5,7 @@ import './index.css'
 import App from './App.jsx'
 import Header from './components/Header';
 import Introduction from './components/Introduction';
-import Card from './components/Card';
+import ProfileCard from './components/ProfileCard';
 
 export default App;
 
